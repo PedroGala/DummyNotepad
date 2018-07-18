@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dummy Notepad</string>
+    <string name="hello_world">Insert Note Text Here</string>
+    <string name="note_title">Note Title</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
